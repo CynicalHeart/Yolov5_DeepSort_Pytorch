@@ -1,1 +1,4 @@
 .vscode/
+.idea
+*.t7
+*.pt
